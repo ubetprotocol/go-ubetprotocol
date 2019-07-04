@@ -24,5 +24,5 @@ package params
 const (
 	ube   = 1
 	GWei  = 1e9
-	Ubet = 1e18
+	Ether = 1e18
 )

@@ -30,7 +30,7 @@
 CRCCheck on
 
 !define GROUPNAME "Ubetprotocol"
-!define APPNAME "Geth"
+!define APPNAME "Gubet"
 !define DESCRIPTION "Official Go implementation of the Ubetprotocol protocol"
 !addplugindir .\
 

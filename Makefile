@@ -13,11 +13,15 @@ GO ?= latest
 
 gubet:
 	build/env.sh go run build/ci.go install ./cmd/gubet
+	cd ./build/bin/
+	./build/bin/gubet init ./build/bin/genesis.json
 	@echo "Done building."
 	@echo "Run \"$(GOBIN)/gubet\" to launch gubet."
 
 all:
 	build/env.sh go run build/ci.go install
+	cd ./build/bin/
+	./build/bin/gubet init ./build/bin/genesis.json
 
 android:
 	build/env.sh go run build/ci.go aar --local

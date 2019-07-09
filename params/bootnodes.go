@@ -20,7 +20,7 @@ package params
 // the main Ubetprotocol network.
 var MainnetBootnodes = []string{
 
-	"enode://5099bca04ae8548d26c69541e292ba9f30e1d4268be89c495fffaf1e9dedef51d9dfeb13a8f68a399b744f33b9b6ed3fff6a00d1c4e083df50a7d22786d2a5f5@13.235.115.123:30303" ,//--- 1st server enode
+        "enode://854534281a1e5536bbcae6a0cd20088c490111813a3bc716221c18d2ae7636bb21d4b1a20fd7287acc009c2aaa5525fc9bd1aa65b01af5c3e8e7095a06d10b65@13.235.115.123:30303" ,//--- 1st server enode
 	"enode://51997e574010e72961616e53d5e4d99aa77e4518a8092f4b2dead6290223d5a911a056b5d3903875f225387ee92857706fd3574689ba1efa05c00b8a3a552912@159.89.154.60:30303" ,  // --- 2nd sever enode
 	// Ubetprotocol Foundation Go Bootnodes
 //	"enode://b19d6fc6d2267922ba43bd1a434c1b57ba41bfc5f2aec58cd7759bd2108db865376931ace24c90d8312171f1af7da3cc7365b02aedf0bec816ca778f14cb1dd9@138.68.6.61:30303",

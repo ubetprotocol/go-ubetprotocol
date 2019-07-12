@@ -22,7 +22,7 @@ var MainnetBootnodes = []string{
 
     "enode://476bbccedddb576665badabce4bb5d4c4d5ab28c97c403d3fd1c3efcbc9ad8355901894f1ad933f4af2fc1bcfeae0137c7dc251d498f2cbcdfc4162690a05c90@13.235.115.123:30303" ,//--- 1st aws server enode
 	"enode://6935c100d50b18968908725b4db43abd275b1ce7e1fb1486838f3db8724a3412bc13bfde9e1a4520313a734c8067398d9f7c5278d49a1086f5d80536bdd50a73@138.68.6.61:30303" ,  // --- 1st sever enode digital ocean
-	"enode://ee9fb57ad1738e4cd9da94a96b41cf98414749f6cdb460217a098954e7de0ea0e29f2de64aae89c3dc11f92f68c98d80894ec3b4459230ed81d9e903f31d3f36@159.89.154.60:30303" ,  // --- 2nd sever enode digital ocean
+	"enode://81573e8a8bd0ab9f65454ef06f52dd10cb7e4093b2a3901e07103e951d09b2f6f9137879e6d54c5ab5dbda7d9ea97059f69370add6f327077e6c9708961ac5ef@159.89.154.60:30303" ,  // --- 2nd sever enode digital ocean
 	
 	// Ubetprotocol Foundation Go Bootnodes
 //	"enode://b19d6fc6d2267922ba43bd1a434c1b57ba41bfc5f2aec58cd7759bd2108db865376931ace24c90d8312171f1af7da3cc7365b02aedf0bec816ca778f14cb1dd9@138.68.6.61:30303",

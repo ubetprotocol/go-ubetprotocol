@@ -21,7 +21,7 @@ package params
 var MainnetBootnodes = []string{
 
     "enode://476bbccedddb576665badabce4bb5d4c4d5ab28c97c403d3fd1c3efcbc9ad8355901894f1ad933f4af2fc1bcfeae0137c7dc251d498f2cbcdfc4162690a05c90@13.235.115.123:30303" ,//--- 1st aws server enode
-	"enode://fc84375b163d61719631c915fb32eb0e1132b60501db8ba19f9a3171f0968c2bd732860114378e5ad2b159e0c3b2c8ba8c176d1569201c360de51c5d2d1195fb@138.68.6.61:30303" ,  // --- 1st sever enode digital ocean
+	"enode://6935c100d50b18968908725b4db43abd275b1ce7e1fb1486838f3db8724a3412bc13bfde9e1a4520313a734c8067398d9f7c5278d49a1086f5d80536bdd50a73@138.68.6.61:30303" ,  // --- 1st sever enode digital ocean
 	"enode://ee9fb57ad1738e4cd9da94a96b41cf98414749f6cdb460217a098954e7de0ea0e29f2de64aae89c3dc11f92f68c98d80894ec3b4459230ed81d9e903f31d3f36@159.89.154.60:30303" ,  // --- 2nd sever enode digital ocean
 	
 	// Ubetprotocol Foundation Go Bootnodes

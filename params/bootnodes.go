@@ -20,9 +20,7 @@ package params
 // the main Ubetprotocol network.
 var MainnetBootnodes = []string{
 
-    "enode://476bbccedddb576665badabce4bb5d4c4d5ab28c97c403d3fd1c3efcbc9ad8355901894f1ad933f4af2fc1bcfeae0137c7dc251d498f2cbcdfc4162690a05c90@13.235.115.123:30303" ,//--- 1st aws server enode
-	"enode://f6b33527659953e31128fae0165ae75ab7017f229c62043bbbf8d71591c3f9129a2c59b74c8f437d674458f1e4f065ebf92e52b1d2a0e7516541ceb19ad98541@138.68.6.61:30303" ,  // --- 1st sever enode digital ocean
-	"enode://23e47da32cd80dab97580396a237df00df2301e9b206e010995169db7f72e47fd382d35fff2969ee2921ee7e00a532106ec4d99d2ae0515bd9299d9c06556578@157.230.128.186:30303" ,  // --- 2nd sever enode digital ocean
+	"enode://d4cedb1703fd43126e7fd157bc5411163f424387e6aa11ec861927982bd5c469709be5443af2850f3993ee844d7667facb6679c21311a734ff33ec8d7b8b7d73@167.99.173.111:30303" ,  // --- 1st sever enode digital-ocean-san-francisco
 	
 	// Ubetprotocol Foundation Go Bootnodes
 //	"enode://b19d6fc6d2267922ba43bd1a434c1b57ba41bfc5f2aec58cd7759bd2108db865376931ace24c90d8312171f1af7da3cc7365b02aedf0bec816ca778f14cb1dd9@138.68.6.61:30303",

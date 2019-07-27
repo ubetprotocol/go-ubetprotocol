@@ -20,8 +20,7 @@ package params
 // the main Ubetprotocol network.
 var MainnetBootnodes = []string{
 
-	"enode://d4cedb1703fd43126e7fd157bc5411163f424387e6aa11ec861927982bd5c469709be5443af2850f3993ee844d7667facb6679c21311a734ff33ec8d7b8b7d73@167.99.173.111:30303" ,  // --- 1st sever enode digital-ocean-san-francisco
-	
+	"enode://45323161a24147a8300776f364b83bf765f5269db85b692d87d2329b63aa6e01fe9190e07b31234ad16129edfb265559b81d9e4b20ae21f27f234d3bd0850555@167.99.173.111:30303", // --- main node
 	// Ubetprotocol Foundation Go Bootnodes
 //	"enode://b19d6fc6d2267922ba43bd1a434c1b57ba41bfc5f2aec58cd7759bd2108db865376931ace24c90d8312171f1af7da3cc7365b02aedf0bec816ca778f14cb1dd9@138.68.6.61:30303",
 	// "enode://d860a01f9722d78051619d1e2351aba3f43f943f6f00718d1b9baa4101932a1f5011f16bb2b1bb35db20d6fe28fa0bf09636d26a87d31de9ec6203eeedb1f666@18.138.108.67:30303",   // bootnode-aws-ap-southeast-1-001
